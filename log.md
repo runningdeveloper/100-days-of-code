@@ -12,3 +12,14 @@ I have no real plan for the 100 days, will need to think about this more.
 2. [Satay aws uploader to S3](https://github.com/jameslnewell/satay)
 3. [Gitlab ci ref](https://docs.gitlab.com/ee/ci/yaml/README.html)
 4. [Blog that helped](http://blog.logicwind.com/auto-deploy-spa-with-aws-s3-and-cloudfront-using-gitlab-ci-cd/)
+
+### Day 1: January 3, 2019
+
+**Today's Progress**: Got a simple LED matrix running with Johnny-Five. 
+
+**Thoughts:** I wanted to play with hardware and I could play with a blue LED matrix board I have lying around. Wanted to stick with javascript so hooked up Johnny-Five to an arduino and got some of the demos for the matrix working. Spent way too long getting Johnny-Five running on the arduino (FYI - its actually very very easy). Will carry on playing tomorrow.
+
+**Links to work:** 
+1. [My code](https://github.com/runningdeveloper/ledMatrix)
+2. [johnny-five LED](http://johnny-five.io/api/led.matrix/)
+3. [johnny-five getting started](https://github.com/rwaldron/johnny-five/wiki/Getting-Started)
