@@ -23,3 +23,12 @@ I have no real plan for the 100 days, will need to think about this more.
 1. [My code](https://github.com/runningdeveloper/ledMatrix)
 2. [johnny-five LED](http://johnny-five.io/api/led.matrix/)
 3. [johnny-five getting started](https://github.com/rwaldron/johnny-five/wiki/Getting-Started)
+
+### Day 2: January 4, 2019
+
+**Today's Progress**: Added a simple frontend and express server to send characters to the LED matrix. 
+
+**Thoughts:** This was really rough and quick. Added Preact as the frontend because I wanted to check it out. Not very good code but it works. I will improve in the coming days.  
+
+**Links to work:** 
+1. [My code](https://github.com/runningdeveloper/ledMatrix)
