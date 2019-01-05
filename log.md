@@ -32,3 +32,12 @@ I have no real plan for the 100 days, will need to think about this more.
 
 **Links to work:** 
 1. [My code](https://github.com/runningdeveloper/ledMatrix)
+
+### Day 3: January 5, 2019
+
+**Today's Progress**: Improved the frontend of the LED matrix and added support to send raw string of LED values. 
+
+**Thoughts:** Got the basics working sending an array of LED values to the backend. Using a basic GET request, I should change to a POST. Lots to do on the frontend to make it more usable.  
+
+**Links to work:** 
+1. [My code](https://github.com/runningdeveloper/ledMatrix)
