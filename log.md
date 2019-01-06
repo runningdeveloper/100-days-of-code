@@ -41,3 +41,12 @@ I have no real plan for the 100 days, will need to think about this more.
 
 **Links to work:** 
 1. [My code](https://github.com/runningdeveloper/ledMatrix)
+
+### Day 4: January 6, 2019
+
+**Today's Progress**: Now you can 'draw' on the frontend and send it to the LED matrix. 
+
+**Thoughts:** Yay I can draw now. I do need to improve the dev experience, I need to build the frontend before testing it with the backend and LED matrix connected.  
+
+**Links to work:** 
+1. [My code](https://github.com/runningdeveloper/ledMatrix)
