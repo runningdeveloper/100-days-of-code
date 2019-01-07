@@ -50,3 +50,12 @@ I have no real plan for the 100 days, will need to think about this more.
 
 **Links to work:** 
 1. [My code](https://github.com/runningdeveloper/ledMatrix)
+
+### Day 5: January 6, 2019
+
+**Today's Progress**: Added live drawing to the LED Matrix and nodemon to improve my dev experience.
+
+**Thoughts:** Installed nodemon, its really usefull. Played around with the config file to rebuild the frontend on code change (note sure this is the best way). Improved the drawing of the LEDs by drawing all at once. The previous method of doing each LED was very slow.  
+
+**Links to work:** 
+1. [My code](https://github.com/runningdeveloper/ledMatrix)
