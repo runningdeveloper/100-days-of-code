@@ -59,3 +59,12 @@ I have no real plan for the 100 days, will need to think about this more.
 
 **Links to work:** 
 1. [My code](https://github.com/runningdeveloper/ledMatrix)
+
+### Day 6: January 7, 2019
+
+**Today's Progress**: Added an animation schedule thing to send frames in a sequence to the LED Matrix. Not quite working yet.
+
+**Thoughts:** Initial version of the animation thing I'm implementing in the browser first. Power cut to the end of working, lol. Couldn't google things. Having a problem building the client side because some Uglify problem, should fix tomorrow.
+
+**Links to work:** 
+1. [My code](https://github.com/runningdeveloper/ledMatrix)
