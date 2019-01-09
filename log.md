@@ -51,7 +51,7 @@ I have no real plan for the 100 days, will need to think about this more.
 **Links to work:** 
 1. [My code](https://github.com/runningdeveloper/ledMatrix)
 
-### Day 5: January 6, 2019
+### Day 5: January 7, 2019
 
 **Today's Progress**: Added live drawing to the LED Matrix and nodemon to improve my dev experience.
 
@@ -60,11 +60,20 @@ I have no real plan for the 100 days, will need to think about this more.
 **Links to work:** 
 1. [My code](https://github.com/runningdeveloper/ledMatrix)
 
-### Day 6: January 7, 2019
+### Day 6: January 8, 2019
 
 **Today's Progress**: Added an animation schedule thing to send frames in a sequence to the LED Matrix. Not quite working yet.
 
 **Thoughts:** Initial version of the animation thing I'm implementing in the browser first. Power cut to the end of working, lol. Couldn't google things. Having a problem building the client side because some Uglify problem, should fix tomorrow.
+
+**Links to work:** 
+1. [My code](https://github.com/runningdeveloper/ledMatrix)
+
+### Day 7: January 9, 2019
+
+**Today's Progress**: Improved the animation code.
+
+**Thoughts:** Fixed build problem, didn't do async await so used this - preact-cli-plugin-fast-async. Still need to improve the animation code, not working exactly as I want it to.
 
 **Links to work:** 
 1. [My code](https://github.com/runningdeveloper/ledMatrix)
