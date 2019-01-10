@@ -77,3 +77,12 @@ I have no real plan for the 100 days, will need to think about this more.
 
 **Links to work:** 
 1. [My code](https://github.com/runningdeveloper/ledMatrix)
+
+### Day 8: January 10, 2019
+
+**Today's Progress**: Finished the animation feature.
+
+**Thoughts:** Struggled with copying animation frames, should be cloning objects. Couldn't understand why my animation wasn't working in some circumstances. Also not sure about my implementation of the looping, seems a bit complex. 
+
+**Links to work:** 
+1. [My code](https://github.com/runningdeveloper/ledMatrix)
