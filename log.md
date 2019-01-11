@@ -86,3 +86,12 @@ I have no real plan for the 100 days, will need to think about this more.
 
 **Links to work:** 
 1. [My code](https://github.com/runningdeveloper/ledMatrix)
+
+### Day 9: January 11, 2019
+
+**Today's Progress**: More additions to the animation feature, shifting animation left/right and list of frames so I can delete or move them around.
+
+**Thoughts:** Learnt some more array functions. Schooled myself in some different was to move items around in an array. Spent a long time on a silly feature.
+
+**Links to work:** 
+1. [My code](https://github.com/runningdeveloper/ledMatrix)
