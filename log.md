@@ -95,3 +95,12 @@ I have no real plan for the 100 days, will need to think about this more.
 
 **Links to work:** 
 1. [My code](https://github.com/runningdeveloper/ledMatrix)
+
+### Day 10: January 12, 2019
+
+**Today's Progress**: Started trying to make a gatsby plugin for a simple search. 
+
+**Thoughts:** Didn't have the LED stuff with me and would like to take a break from it. Lots of reading. Created an example site and connected the dev plugin to the site. Learnt about `npm link`
+
+**Links to work:** 
+1. [Gatsby plugin docs](https://www.gatsbyjs.org/docs/create-transformer-plugin/)
