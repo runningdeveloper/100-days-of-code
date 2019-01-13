@@ -104,3 +104,12 @@ I have no real plan for the 100 days, will need to think about this more.
 
 **Links to work:** 
 1. [Gatsby plugin docs](https://www.gatsbyjs.org/docs/create-transformer-plugin/)
+
+### Day 11: January 13, 2019
+
+**Today's Progress**: Got to grips with some of the Gatsby apis. Don't think my plugin will be usefull.
+
+**Thoughts:** May need a rethink. Might be no need to make a plugin for what I want to do. Today learnt a bit more about plugin creation and some babel setup stuff.
+
+**Links to work:** 
+1. [Gatsby plugin docs](https://www.gatsbyjs.org/docs/create-transformer-plugin/)
