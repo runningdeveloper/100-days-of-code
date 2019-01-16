@@ -113,3 +113,12 @@ I have no real plan for the 100 days, will need to think about this more.
 
 **Links to work:** 
 1. [Gatsby plugin docs](https://www.gatsbyjs.org/docs/create-transformer-plugin/)
+
+### Day 12: January 16, 2019
+
+**Today's Progress**: Still playing with Gatsby plugins trying to make my own.
+
+**Thoughts:** Copying a tranformer plugin to try make an stl viewer you can just add your stl 3d print into your markdown and it will show.
+
+**Links to work:** 
+1. [Gatsby plugin docs](https://www.gatsbyjs.org/docs/create-transformer-plugin/)
