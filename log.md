@@ -122,3 +122,13 @@ I have no real plan for the 100 days, will need to think about this more.
 
 **Links to work:** 
 1. [Gatsby plugin docs](https://www.gatsbyjs.org/docs/create-transformer-plugin/)
+
+### Day 13: January 17, 2019
+
+**Today's Progress**: Doing some improvements to a friend's website, playing with lazy loading images.
+
+**Thoughts:** Learning a bit more about this laxy load stuff. Also srcset and this perticular website uses uikit which has a lasy load thing (noticed a bit late). Need to play a lot more to understand this fully. Gatsby's image component is so nice, don't even have to think about this stuff.
+
+**Links to work:** 
+1. [Uikit image](https://getuikit.com/docs/image)
+2. [srcset](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
