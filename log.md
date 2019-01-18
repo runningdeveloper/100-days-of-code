@@ -132,3 +132,14 @@ I have no real plan for the 100 days, will need to think about this more.
 **Links to work:** 
 1. [Uikit image](https://getuikit.com/docs/image)
 2. [srcset](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+
+### Day 14: January 18, 2019
+
+**Today's Progress**: Making a small node function to resize a bunch of images for friend's website.
+
+**Thoughts:** Not a major amount of work. Messed around with Jimp and Sharp. Sharp definitly seems faster. Want to try do the srcset sizes somewhat automatically.
+
+**Links to work:** 
+1. [Sharp](https://sharp.pixelplumbing.com/en/stable/)
+
+
