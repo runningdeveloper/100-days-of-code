@@ -142,4 +142,14 @@ I have no real plan for the 100 days, will need to think about this more.
 **Links to work:** 
 1. [Sharp](https://sharp.pixelplumbing.com/en/stable/)
 
+### Day 15: January 19, 2019
+
+**Today's Progress**: Tried to put the image resize thing into an electron app. Failed, need to read up more.
+
+**Thoughts:** Some errors I couldn't figure out. Also published the basic script to github.
+
+**Links to work:** 
+1. [Script](https://github.com/runningdeveloper/image-resize-folder)
+2. [Electron Forge](https://electronforge.io/)
+
 
